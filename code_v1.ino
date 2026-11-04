@@ -11,8 +11,8 @@
 // ===================================================================
 // APPLICATION CONFIGURATION
 // ===================================================================
-const char* attendanceUrl = "https://internal.hmifunma.web.id/api/attendance/tap";
-const char* apiToken = "rN0QjGbq8gIium1wqgfXObMyCxM62bWP2kPOGODoUIdWVYY7EfY1yhAgsQlBSXht";
+const char* attendanceUrl = "";
+const char* apiToken = "";
 
 // ===================================================================
 // HARDWARE CONFIGURATION
